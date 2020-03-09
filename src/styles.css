@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+
+.hide {
+    display:none; 
+}
+
+.childContainer {
+    /*
+    height:100%;
+    background:#edf;
+    overflow:auto;
+    border: 1px solid green;
+    min-height: 50px;
+    */
+}
+
+.col-xs-12 button {
+    margin-left: 5px;
+}
+/*
+.parentContainer {
+    height:25%;
+    min-height: 400px;
+    border: 2px solid blue;
+    padding: 4px;
+    margin: 4px;
+}
+
+.containerTitle{
+    text-align: right;
+     
+}
+*/
